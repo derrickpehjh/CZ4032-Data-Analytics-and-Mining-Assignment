@@ -17,8 +17,8 @@ Team Members:
 2. Download/Clone the entire github repository
 3. In the command prompt, type the following command to open up the graphical interface on the browser:
 python -m notebook 
-Navigate to the folder of main.ipynb and open the file 
-Ensure you have installed all the python packages as stated in the first few lines of the file 
-Run the entire program 
+  - Navigate to the folder of main.ipynb and open the file  
+  - Ensure you have installed all the python packages as stated in the first few lines of the file   
+  - Run the entire program  
 
-Alternatively for ease of access, we have also prepared an offline copy of the entire script named: main.html. It includes a pre-generated version of the data visualisation that is produced by the script.
+  Alternatively for ease of access, we have also prepared an offline copy of the entire script named: main.html. It includes a pre-generated version of the data visualisation that is produced by the script.
